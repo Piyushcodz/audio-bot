@@ -30,7 +30,7 @@ def wishMe():
     else:
         speak("Good Evening!")  
 
-    speak("I am Piyush, How my help you")       
+    speak("I am Piyush Sharma, How my help you")       
 
 def takeCommand():
     #It takes microphone input from the user and returns string output
